@@ -1,0 +1,12 @@
+
+Name: Krisha 
+Marks=94 
+
+Name: Kirtan 
+Marks=96 
+
+Name: Kashti 
+Marks=95 
+
+Name: Pranidhi 
+Marks=96 
