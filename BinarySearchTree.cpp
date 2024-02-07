@@ -238,8 +238,8 @@ int main()
 				cout<<"\nElement deleted succcessfully";
 				break;
             case 4:
-                cout<<"1.Preorder"<<endl;
-                cout<<"2.Inorder"<<endl;
+                cout<<"1.Preorder traversal"<<endl;
+                cout<<"2.Inorder "<<endl;
                 cout<<"3.Postorder"<<endl;
                 cout<<"Enter choice:";
                 cin>>ch2;
